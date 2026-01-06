@@ -2,7 +2,7 @@
 name: PL-Meeting-Template
 about: PL 미팅 템플릿
 title: ''
-labels: PL-Metting
+labels: ''
 assignees: ''
 
 ---
