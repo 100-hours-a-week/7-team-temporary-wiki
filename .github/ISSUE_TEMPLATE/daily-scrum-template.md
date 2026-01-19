@@ -8,51 +8,56 @@ assignees: ''
 ---
 
 ## Sam
-### Task
+### Done
 - 
 ### Issue
 - 
-### Review
+### Todo(해당 내용들 issue 생성 부탁드립니다.)
 - 
+//Todo(issue)의 단위는 2시간 이내를 권장드립니다.
 
 ***
 
 ## Ran
-### Task
+### Done
 - 
 ### Issue
 - 
-### Review
+### Todo(해당 내용들 issue 생성 부탁드립니다.)
 - 
+//Todo(issue)의 단위는 2시간 이내를 권장드립니다.
 
 ***
 
 ## Max
-### Task
+### Done
 - 
 ### Issue
 - 
-### Review
+### Todo(해당 내용들 issue 생성 부탁드립니다.)
 - 
+//Todo(issue)의 단위는 2시간 이내를 권장드립니다.
 
 ***
 
 ## Roy
-### Task
+### Done
 - 
 ### Issue
 - 
-### Review
+### Todo(해당 내용들 issue 생성 부탁드립니다.)
 - 
+//Todo(issue)의 단위는 2시간 이내를 권장드립니다.
 
 ***
 
 ## Colie
-### Task
+### Done
 - 
 ### Issue
 - 
-### Review
+### Todo(해당 내용들 issue 생성 부탁드립니다.)
 - 
+//Todo(issue)의 단위는 2시간 이내를 권장드립니다.
 
 ***
