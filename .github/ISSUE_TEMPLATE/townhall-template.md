@@ -2,7 +2,7 @@
 name: Townhall-Template
 about: 타운홀 미팅 템플릿
 title: ''
-labels: Townhall-Metting
+labels: ''
 assignees: ''
 
 ---
