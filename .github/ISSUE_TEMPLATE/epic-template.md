@@ -1,6 +1,6 @@
 ---
 name: EPIC Template
-about: Describe this issue template's purpose here.
+about: 에픽 템플릿
 title: ''
 labels: EPIC
 assignees: ''
